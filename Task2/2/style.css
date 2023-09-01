@@ -1,0 +1,32 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+       background-color: antiquewhite;
+}
+.blue{
+    background-color: #98eeee;
+    width: 300px;
+    padding: 8px 8px 8px 20px;
+    list-style-image: url(/img/un.png)
+}
+.gr{
+    background-color: #b7d6d6;
+    width: 300px;
+    padding: 8px 8px 8px 20px;
+    list-style-image: url(/img/ch.png);
+}
+.bl{
+    background-color: #35e6e6;
+    width: 300px;
+    padding: 8px 8px 8px 20px;
+    list-style-image: url(/img/un.png);
+}
+.ar{
+    list-style-image: url(/img/ar.png);
+}
+span{
+    color: red;
+    padding: 8px 8px 8px 7px;
+    margin: 10px 10px 10px 10px;
+}

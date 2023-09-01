@@ -1,0 +1,19 @@
+*{
+    background-color: aliceblue;
+    width: 340px;
+}
+ol{
+    background-color: palevioletred;
+    padding: 20px;
+    list-style-position: inside;
+}
+li{
+    background-color: #e75774;
+    width: 300px;
+    margin: 5px;
+}
+span{
+    background-color: #c52b49;
+    padding-right: 10px;
+    padding-left: 10px;
+}
